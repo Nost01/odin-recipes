@@ -1,1 +1,1 @@
-This project will demonstrate my general HTML skills. As I utilize the boilerplate and add text content and lists. 
+This project will demonstrate my general HTML skills. As I utilize the boilerplate and add text content and lists.
